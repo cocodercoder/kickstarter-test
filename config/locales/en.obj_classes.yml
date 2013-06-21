@@ -1,0 +1,44 @@
+en:
+  obj_classes:
+    image:
+      title: 'Resource: Image'
+      description: 'Resource: Image'
+    video:
+      title: 'Resource: Video'
+      description: 'Resource: Video'
+    homepage:
+      title: 'Page: Homepage'
+      description: 'Page: Homepage'
+    root:
+      title: 'Root'
+      description: 'Root'
+    website:
+      title: 'Website'
+      description: 'Website'
+    container:
+      title: 'Container'
+      description: 'Container'
+    content_page:
+      title: 'Page: Content'
+      description: 'Page: Content'
+    error_page:
+      title: 'Page: Error'
+      description: 'Page: Error'
+    search_page:
+      title: 'Page: Search'
+      description: 'Page: Search'
+    login_page:
+      title: 'Page: Login'
+      description: 'Page: Login'
+    reset_password_page:
+      title: 'Page: ResetPassword'
+      description: 'Page: ResetPassword'
+    text_widget:
+      title: 'Text widget'
+      description: 'Creates a simple widget with headline and content.'
+    image_widget:
+      title: 'Image widget'
+      description: 'Widget that holds an image with a caption and a headline.'
+    profile_page:
+      title: 'Page: Profile'
+      description: 'Page: Profile'
